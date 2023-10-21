@@ -8,16 +8,18 @@ img {
   }
   
   h2 {
-    font-size: 28px;
-    color: white;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
   }
   
   body {
     font-family: 'Trebuchet MS';
     background-image: url(2332796.jpg);
     background-repeat: no-repeat;
+    background-size: 1810px;
   }
-  
+
   a {
     background-color: #2C3E50;
     color: white;
